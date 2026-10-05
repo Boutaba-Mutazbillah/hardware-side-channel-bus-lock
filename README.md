@@ -33,6 +33,3 @@ To maintain persistence and prevent a fatal system collapse, such as a Blue Scre
 *Figure 3: High-frequency timing wave profiling showing 16 distinct voltage and latency peaks (Spikes) mapped during continuous cache flooding and binary extraction.*
 
 ---
-
-## 4. Repository Tags
-#HardwareSecurity #SideChannelAttack #MicroarchitecturalExploit #BusLocking #TimingAnalysis #x86_64Assembly #CacheContention #LowLevelDevelopment #KernelHacking #RootkitPersistence #NOPSled #ReverseEngineering #CyberSecurity #ComputerArchitecture #IntelPentest #BinaryExploitation #HardwareHacking #TechReport #BinaryDump #SoftwareInterrupt
